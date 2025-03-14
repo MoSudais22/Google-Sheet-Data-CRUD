@@ -1,0 +1,35 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  cursor: pointer;
+  background: red;
+  color: white;
+  border: none;
+}
+
+input, select {
+  padding: 8px;
+  margin: 5px;
+}
