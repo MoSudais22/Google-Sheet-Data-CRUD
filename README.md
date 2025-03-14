@@ -6,33 +6,18 @@ Frontend: React.js
 Backend: Node.js, Express.js
 Database: Google Sheets (via Google Sheets API)
 📦 Installation Guide
-1️⃣ Backend Setup (Express + Google Sheets API)
-📌 Navigate to the backend folder
 
-cd google-sheets-backend
+1️⃣ Backend Setup (Express + Google Sheets API)
+
 📌 Install required dependencies
 
 npm install express cors dotenv googleapis
-📌 Run the backend server
-
-node server.js
-The server will run at http://localhost:5000.
 
 2️⃣ Frontend Setup (React)
-📌 Navigate to the frontend folder
 
-
-cd google-sheets-frontend
 📌 Install required dependencies
 
 npm install axios
-📌 Run the React app
-
-bash
-Copy
-Edit
-npm start
-The frontend will be available at http://localhost:3000.
 
 🔹 Features:
 ✅ Fetch data from Google Sheets
